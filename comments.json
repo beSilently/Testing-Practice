@@ -1,22 +1,22 @@
 {
   "comments": [
     {
-    "username": "Dragon",
-    "userpicSrc": "userpic-8.png",
-    "commentText": "Nice game!",
-    "commentDate": "2009-06-25"
+    "name": "Dragon",
+    "text": "Nice game!",
+    "picNum": "8",
+    "curDate": "2009-06-25"
     },
     {
-    "username": "Gorgona",
-    "userpicSrc": "userpic-4.png",
-    "commentText": "S-s-super!!",
-    "commentDate": "2008-08-18"
+    "name": "Gorgona",
+    "text": "S-s-super!!",
+    "picNum": "4",
+    "curDate": "2008-08-18"
     },
     {
-    "username": "Carrot",
-    "userpicSrc": "userpic-5.png",
-    "commentText": "Cr-r-razy game!",
-    "commentDate": "2014-10-31"
+    "name": "Carrot",
+    "text": "Cr-r-razy game!",
+    "picNum": "5",
+    "curDate": "2014-10-31"
     }
   ]
 }
